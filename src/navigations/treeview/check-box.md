@@ -51,6 +51,7 @@ export class AppComponent {
         { id: 3, pid: 1, name: 'Victoria' },
         { id: 4, pid: 1, name: 'South Australia' },
         { id: 6, pid: 1, name: 'Western Australia' },
+        { id: 26, pid: 2, name: 'NETHRA' },
         { id: 7, name: 'Brazil', hasChild: true },
         { id: 8, pid: 7, name: 'Paraná' },
         { id: 9, pid: 7, name: 'Ceará' },
